@@ -1,0 +1,4 @@
+name: demojump
+main: com.github.letheland.demojump.main
+version: 999.9
+authors: [demo]
